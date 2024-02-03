@@ -1138,7 +1138,7 @@ $(function(){
     });
 
     // CSVの読み込み
-    $.get("https://fategoplayer.github.io/fgodamagecalculator/data/servant_data.csv", parseCsv, "text");
+    $.get("https://fategoplayer2.github.io/fgodamagecalculator/data/servant_data.csv", parseCsv, "text");
 
 });
 
